@@ -1,0 +1,54 @@
+@font-face {
+    font-family: AliceFont;
+    src: url(Alice-Regular.ttf);
+}
+
+body {
+    background-color: #f0e9e6 !important;
+    font-family: AliceFont !important;
+}
+
+nav{
+    background-color: #ebd6cd;
+    padding: 1% !important;
+    border-bottom: solid 1px black;
+}
+
+.navbar-brand{
+    font-size: 25px !important;
+}
+
+.nav-link{
+    font-size: 20px !important;
+    background-color: transparent !important;
+    border: solid 1px black !important;
+}
+.nav-link:link {
+    color: rgba(0, 0, 0, 0.795) !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.nav-link:visited {
+    color: rgba(0, 0, 0, 0.795);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: rgb(231, 121, 70) !important;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.nav-link:active {
+    color: rgb(87, 32, 7) !important;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.nav-link:current {
+    color: rgb(61, 24, 6) !important;
+    background-color: transparent;
+    text-decoration: underline;
+}
