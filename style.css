@@ -130,10 +130,8 @@ main{
     text-transform: uppercase;
 }
 
-@media only screen and (min-width: 425px){
+@media only screen and (min-width: 425px) and (max-width: 767px){
     .nav-link{
         font-size: 10px !important;
-        background-color: transparent !important;
-        border: solid 1px black !important;
     }
 }
