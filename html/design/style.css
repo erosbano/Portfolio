@@ -25,6 +25,8 @@ nav{
 
 .navbar-brand button{
     justify-content: flex-end !important;
+    background-color: transparent;
+    border: none;
 }
 
 .nav-link{
