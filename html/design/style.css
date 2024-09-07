@@ -23,10 +23,8 @@ nav{
     font-size: 25px !important;
 }
 
-.navbar-brand button{
+.collapse{
     justify-content: flex-end !important;
-    background-color: transparent;
-    border: none;
 }
 
 .nav-link{
