@@ -23,7 +23,7 @@ nav{
     font-size: 25px !important;
 }
 
-.collapse{
+.navbar-brand button{
     justify-content: flex-end !important;
 }
 
